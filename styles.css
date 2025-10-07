@@ -6,7 +6,7 @@ body {
 }
 
 #overview {
-    color: #cf33b5
+    color: lab(73.93% -59.62 34.06)
 }
 
 
@@ -31,4 +31,19 @@ body {
 
 .lecture-date {
     font-style: italic;
+}
+
+.grading-table {
+  border-collapse: collapse;
+}
+
+.grading-table th, .grading-table td {
+  border: 1px solid #ccc;
+  padding: 0.2em 0.2em;
+  text-align: left;
+}
+
+.grading-table th {
+  background-color: #2a4d8f;
+  color: rgb(255, 255, 255);
 }
