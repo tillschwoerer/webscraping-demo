@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #000000;
+    padding: 10px;
+}
+
+#overview {
+    color: #cf33b5
+}
+
+
+.header {
+    color: #67a1da
+}
+
+.topic-box {
+    background: white;
+    border: 2px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.topic {
+    font-size: 25px
+}
+
+.description {
+    font-weight: bold;
+}
+
+.lecture-date {
+    font-style: italic;
+}
